@@ -1,6 +1,6 @@
 # ES6 React boilerplate using Webpack
 
-[![Travis](https://api.travis-ci.org/Ariel042cohen/react-webpack-template.svg?branch=master)][https://ci.appveyor.com/api/projects/status/buxfftx347t1q7r7/branch/master?svg=true]
+[![Travis](https://api.travis-ci.org/Ariel042cohen/react-webpack-template.svg?branch=master)](https://github.com/Ariel042cohen/react-webpack-template) [![Appveyor](https://ci.appveyor.com/api/projects/status/buxfftx347t1q7r7/branch/master?svg=true)](http://appveyor.com)
 
 Simple and optimized React boilerplate. It includes: 
 
