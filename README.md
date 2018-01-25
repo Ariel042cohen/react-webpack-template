@@ -1,6 +1,7 @@
 # ES7 React boilerplate using Webpack 3
 
 [![T ravis](https://api.travis-ci.org/Ariel042cohen/react-webpack-template.svg?branch=master)](https://github.com/Ariel042cohen/react-webpack-template) [![Appveyor](https://ci.appveyor.com/api/projects/status/buxfftx347t1q7r7/branch/master?svg=true)](http://appveyor.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Simple and optimized React boilerplate. It includes: 
 
