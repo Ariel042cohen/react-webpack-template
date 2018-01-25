@@ -12,7 +12,7 @@ Simple and optimized React boilerplate. It includes:
 - [x] Latest Webpack (v.3.9.1) and Webpack Dev Server (v.2.9.5) with Scope Hoisting enabled
 - [x] Hot Module Replacement using [react-hot-loader](https://github.com/gaearon/react-hot-loader)
 - [x] ES7 linting with continuous linting on file change
-- [] SASS support
+- [ ] SASS support
 - [x] Separate CSS stylesheets generation
 - [x] Automatic HTML generation
 - [x] Production Config
