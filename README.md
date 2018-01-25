@@ -2,6 +2,7 @@
 
 [![T ravis](https://api.travis-ci.org/Ariel042cohen/react-webpack-template.svg?branch=master)](https://github.com/Ariel042cohen/react-webpack-template) [![Appveyor](https://ci.appveyor.com/api/projects/status/buxfftx347t1q7r7/branch/master?svg=true)](http://appveyor.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Coverage Status](https://coveralls.io/repos/github/Ariel042cohen/react-webpack-template/badge.svg?branch=master)](https://coveralls.io/github/Ariel042cohen/react-webpack-template?branch=master)
 
 Simple and optimized React boilerplate. It includes: 
 
