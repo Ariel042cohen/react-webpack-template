@@ -7,7 +7,7 @@ Simple and optimized React boilerplate. It includes:
 - [x] React 16.2.0
 - [x] ECMAScript 7 and JSX support
 - [ ] React Router v4
-- [x] Component testing using [Enzyme](https://github.com/airbnb/enzyme) and [Jest](https://facebook.github.io/jest)
+- [x] Component testing using [Enzyme](https://github.com/airbnb/enzyme) and [Mocha](https://mochajs.org/) and [Chai](http://chaijs.com/)
 - [x] Code Coverage
 - [x] Latest Webpack (v.3.9.1) and Webpack Dev Server (v.2.9.5) with Scope Hoisting enabled
 - [x] Hot Module Replacement using [react-hot-loader](https://github.com/gaearon/react-hot-loader)
