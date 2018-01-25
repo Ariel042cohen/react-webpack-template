@@ -14,7 +14,7 @@
 		"build": "webpack -p --config ./webpack.config.prod.js --progress",
 		"postbuild": "babel-node buildScripts/distServer.js"
 	},
-	"author": "Yonatan Kreiner",
+	"author": "Ariel Cohen",
 	"license": "MIT",
 	"dependencies": {
 		"react": "^16.2.0",
